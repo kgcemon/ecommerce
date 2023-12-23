@@ -1,4 +1,5 @@
 # ecommerce
+![ecom](https://github.com/kgcemon/ecommerce/assets/146537184/2a3ead68-3bbb-4c3f-a5cd-782f4c28cbcd)
 
 this a  ecommerce app
 
